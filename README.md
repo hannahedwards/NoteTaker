@@ -14,6 +14,7 @@ First download all needed packages and then in the command line run 'node server
 ## Contributions
 Please ask first!
 ## Screen shots of this project
+<img width="1440" alt="Screenshot 2023-03-28 at 10 33 53 PM" src="https://user-images.githubusercontent.com/44388330/228411763-1acc9c6a-5c40-4cba-a857-d409a667325a.png">
 
 ## Questions
 Please feel free to reach out to me at: hannah2edwards3@gmail.com
