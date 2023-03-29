@@ -25,13 +25,13 @@ app.post('/api/notes', (req, res) => {
     };
     readAndAppend(newInput, './db/db.json');
     const response = {
-      status: 'success',
+      status: 'added',
       body: newInput,
     };
 
     res.json(response);
   } else {
-    res.json('Error in posting feedback');
+    res.json('try again');
   }
 });
 

@@ -1,6 +1,34 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "HTML notes",
+        "text": "add later"
+    },
+    {
+        "title": "CSS notes",
+        "text": "add later"
+    },
+    {
+        "title": "JavaScript notes",
+        "text": "add later"
+    },
+    {
+        "title": "API notes",
+        "text": "add later"
+    },
+    {
+        "title": "Node.js notes",
+        "text": "add later"
+    },
+    {
+        "title": "OOP notes",
+        "text": "add later"
+    },
+    {
+        "title": "Express.js notes",
+        "text": "add later"
+    },
+    {
+        "title": "SQL notes",
+        "text": "add later"
     }
 ]
